@@ -11,6 +11,10 @@
 </ol>
 <strong>Resultados de la ejecución del archivo <code>main.js</code>:</strong>
 <ul>
-<li>Gráfica 1 - Número de refugiados por País de procedencia</li>
-<li>Gráfica 2 - Expectativa de vida por Poder adquisitivo por país</li>
+<li>Gráfica 1 - Número de refugiados por País de procedencia
+<img src="https://github.com/JulianP911/EjercicioD3/blob/master/img/Gr%C3%A1fica%201.png" alt="Grafica 1">
+</li>
+<li>Gráfica 2 - Expectativa de vida por Poder adquisitivo por país
+<img src="https://github.com/JulianP911/EjercicioD3/blob/master/img/Gr%C3%A1fica%202.png" alt="Grafica 1">
+</li>
 </ul>
